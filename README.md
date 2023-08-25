@@ -5,7 +5,7 @@
 This is a simple Age Calculator web app created using HTML, CSS, and JavaScript. 
 It calculates a person's age based on the birthdate entered by the user and displays the result.
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/MaheshMohite6520/Age-Calculator/assets/126685009/9eeb68b2-ecde-4c48-9f18-69716bcef254)
 
@@ -21,7 +21,7 @@ It calculates a person's age based on the birthdate entered by the user and disp
 - CSS
 - JavaScript
 
-## Hou to use
+## How to use
 
 - Open the index.html file in your web browser.
 
